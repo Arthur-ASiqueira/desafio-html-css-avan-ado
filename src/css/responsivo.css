@@ -1,0 +1,23 @@
+@media(max-width: 650px){
+
+.header {
+    flex-direction: column;
+}
+
+.hero {
+    flex-direction: column;
+}
+
+.text-huddle {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.icons {
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+}
